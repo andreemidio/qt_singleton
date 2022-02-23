@@ -1,0 +1,3 @@
+D:/andreemidio/trigger_singleton/cmake-build-debug/CMakeFiles/trigger.dir
+D:/andreemidio/trigger_singleton/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/andreemidio/trigger_singleton/cmake-build-debug/CMakeFiles/rebuild_cache.dir
